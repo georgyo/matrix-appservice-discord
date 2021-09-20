@@ -49,3 +49,8 @@ build
 
 *.db
 *.db.backup
+
+
+.yarn/cache/
+.yarn/install-state.gz
+release
